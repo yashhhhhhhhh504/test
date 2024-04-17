@@ -1,0 +1,2227 @@
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999997, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999996, 9.749999999999998]}
+Reducer received request for iteration 2
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 3
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 3
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114], "2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 4
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [23.860377777777774, 74.24314444444445]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [16.011030769230764, 53.69140769230769]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.9391304347826095, 2.121739130434783], "2.0": [0.8250000000000002, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.9391304347826095, 2.121739130434783], "2.0": [0.8250000000000002, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.053658536585367, 2.102439024390245]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8166666666666668, 9.766666666666666]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.053658536585367, 2.102439024390244]}
+New centroids:
+{"2.0": [0.8166666666666668, 9.766666666666666]}
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6199999999999999, 7.419999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.3644444444444455, 2.557777777777778], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8200000000000001, 9.76]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [8.371428571428572, 2.771428571428572], "4.0": [10.233333333333333, 0.04166666666666665]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [8.487499999999999, 2.6625], "4.0": [10.318181818181818, -0.1272727272727273]}
+Reducer received request for iteration 3
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 4
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 4
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 4
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 5
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 5
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 5
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+New centroids:
+{"1.0": [8.053658536585367, 2.102439024390245]}
+New centroids:
+{"2.0": [0.8166666666666668, 9.766666666666666]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6199999999999999, 7.419999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 4
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 5
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+Reducer received request for iteration 2
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6500000000000001, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6500000000000001, 7.449999999999999]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6500000000000004, 7.449999999999999]}
+New centroids:
+{"3.0": [-1.6500000000000004, 7.449999999999999]}
+Reducer received request for iteration 2
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+New centroids:
+{"3.0": [-1.6500000000000001, 7.45]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6199999999999999, 7.42]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6199999999999999, 7.419999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 4
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 5
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.5999999999999999, 7.3999999999999995]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6800000000000002, 7.4799999999999995]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 4
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 5
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 2
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.45]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.65, 7.45]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids:
+{"3.0": [-1.6800000000000002, 7.4799999999999995]}
+Reducer received request for iteration 2
+New centroids:
+{"3.0": [-0.8, 7.366666666666666]}
+Reducer received request for iteration 3
+New centroids:
+{"3.0": [-0.8, 7.366666666666666]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.939130434782607, 2.1217391304347823], "2.0": [0.8250000000000001, 9.75], "3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375], "2.0": [0.8250000000000001, 9.75], "1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.7, 7.5]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.2833333333333334, 7.383333333333334]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.65, 7.32]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.65, 7.32]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.65, 7.449999999999999]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 1
+New centroids: 
+{"3.0": [-1.7, 7.5]}
+Reducer received request for iteration 2
+New centroids: 
+{"3.0": [-0.675, 7.3375]}
+Reducer received request for iteration 3
+New centroids: 
+{"3.0": [-0.675, 7.3375]}

@@ -1,0 +1,1170 @@
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.750000000000002]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.825, 9.75]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8249999999999998, 9.749999999999998]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.281069958847729, 3.079012345679008]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.587037037037037, 2.1555555555555563]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.769565217391304, 2.1413043478260874]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 1
+New centroids: 
+{"2.0": [0.8250000000000001, 9.75]}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"2.0": [-0.17500000000000002, 8.141666666666667]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.8100000000000005, 2.733333333333334]}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [14.2308625, 46.2764375]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [15.66992, 52.76811]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [17.546075, 56.35968333333333]}
+Reducer received request for iteration 4
+New centroids: 
+{"1.0": [20.721164285714288, 59.731628571428566]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [15.070580000000001, 33.6109]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [15.070580000000001, 33.6109]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [14.2308625, 46.2764375]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [14.55383076923077, 41.40507692307692]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [10.327772222222224, 16.30738888888888]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [8.69523492063492, 10.566126984126978]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [8.042220000000002, 8.269622222222216]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.690596581196585, 7.033042735042728]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [7.470831944444443, 6.26018055555555]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.821276595744681, 2.7787234042553197]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.821276595744681, 2.778723404255319]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.8212765957446795, 2.7787234042553175]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.377142857142859, 1.2257142857142855]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.377142857142859, 1.2257142857142855]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [6.518518518518517, 2.9111111111111114]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids: 
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.3644444444444455, 2.557777777777779], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [8.371428571428572, 2.771428571428572], "4.0": [10.233333333333333, 0.04166666666666665]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [8.487499999999999, 2.6625], "4.0": [10.318181818181818, -0.1272727272727273]}
+Reducer received request for iteration 4
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 5
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+Reducer received request for iteration 2
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.0473684210526315]}
+Reducer received request for iteration 1
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.2250000000000005], "4.0": [9.547368421052633, 1.0473684210526322]}
+New centroids:
+{"1.0": [0.3, 7.2250000000000005], "4.0": [9.547368421052633, 1.0473684210526322]}
+Reducer received request for iteration 2
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+New centroids:
+{"1.0": [0.30000000000000004, 7.2250000000000005], "4.0": [9.547368421052633, 1.047368421052631]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.32, 7.220000000000001], "4.0": [9.437037037037037, 1.1629629629629628]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.053658536585367, 2.102439024390244]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.3644444444444455, 2.557777777777778], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [8.371428571428572, 2.771428571428572], "4.0": [10.233333333333333, 0.04166666666666665]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [8.487499999999999, 2.6625], "4.0": [10.318181818181818, -0.1272727272727273]}
+Reducer received request for iteration 4
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 5
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3333333333333333, 7.216666666666668], "4.0": [9.377142857142859, 1.2257142857142855]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3333333333333333, 7.216666666666668], "4.0": [9.377142857142859, 1.2257142857142855]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [6.8374999999999995, 2.784375000000001], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [8.16, 2.78], "4.0": [10.042857142857144, 0.42857142857142855]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [8.487499999999999, 2.6625], "4.0": [10.318181818181818, -0.1272727272727273]}
+Reducer received request for iteration 4
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 5
+New centroids:
+{"1.0": [8.6, 2.533333333333333], "4.0": [10.4, -0.29]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782607, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids: 
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 2
+New centroids: 
+{"1.0": [0.3, 7.225], "4.0": [9.54736842105263, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.461290322580645, 1.7354838709677418]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.670370370370371, 0.9222222222222222]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.670370370370371, 0.9222222222222222]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.258064516129032, 1.9451612903225806]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.437037037037037, 1.162962962962963]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.437037037037037, 1.162962962962963]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [7.939130434782609, 2.1217391304347823]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.547368421052632, 1.0473684210526315]}
+Reducer received request for iteration 1
+New centroids:
+{"1.0": [8.281818181818181, 1.8909090909090909]}
+Reducer received request for iteration 2
+New centroids:
+{"1.0": [9.437037037037037, 1.162962962962963]}
+Reducer received request for iteration 3
+New centroids:
+{"1.0": [9.437037037037037, 1.162962962962963]}
